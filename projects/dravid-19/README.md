@@ -18,11 +18,6 @@ During CWF Spring 2020, I decided to make an online pictionary like .io style ga
 ![3](./screenshots/3.png)
 ![4](./screenshots/4.png)
 
-| Expectations (Designs)                         | Reality (Screenshots)                 |
-| ---------------------------------------------- | ------------------------------------- |
-| ![1](./screenshots/DesignV1_ShoppingList1.png) | ![3](./screenshots/ShoppingList1.png) |
-| ![2](./screenshots/DesignV1_ShoppingList2.png) | ![4](./screenshots/ShoppingList2.png) |
-
 ## Inspiration
 
 Since we started WFH at my job my team and I have gotten into the habit of playing skribbl.io and it has been a blast. I got interested in thinking about how I could build a game like this and decided to give it a shot.
