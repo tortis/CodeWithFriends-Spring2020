@@ -7,16 +7,18 @@ https://gitlab.com/findley
 https://github.com/tortis
 
 Client source code: https://gitlab.com/findley/dravid-19-client
+
 Server source code: https://gitlab.com/findley/dravid-19-server
 
 ## Summary
 
 During CWF Spring 2020, I decided to make an online pictionary like .io style game.
 
-![1](./screenshots/1.png)
-![2](./screenshots/2.png)
-![3](./screenshots/3.png)
-![4](./screenshots/4.png)
+| <!-- -->                  | <!-- -->                  |
+|---------------------------|---------------------------|
+| ![1](./screenshots/1.png) | ![2](./screenshots/2.png) |
+| ![3](./screenshots/3.png) | ![4](./screenshots/4.png) |
+
 
 ## Inspiration
 
